@@ -41,5 +41,4 @@ This repository contains a PowerShell script that simplifies the process of inst
    - PowerShell Script Execution Policy: If you encounter an error regarding script execution, you may need to change the execution policy. To do this, run the following command in PowerShell with Administrator privileges:.
    ```powershell
    Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
-   - Permissions: Ensure that you are running PowerShell as Administrator, as installing software requires elevated permissions.
 
